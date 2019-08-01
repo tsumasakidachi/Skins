@@ -1,0 +1,176 @@
+{
+    "name": "",
+    "dist": "/dist",
+    "skins": [
+        {
+            "filename": "amami-haruka.private-cloth-spring.png",
+            "layers": [
+                "/アイドルマスター/キャラクター/天海春香.png",
+                "/アイドルマスター/衣装/天海春香.私服 (春).png"
+            ]
+        },
+        {
+            "filename": "amami-haruka.starpiece-memories.png",
+            "layers": [
+                "/アイドルマスター/キャラクター/天海春香.png",
+                "/アイドルマスター/衣装/スターピースメモリーズ.png",
+                "/アイドルマスター/衣装/スターピースメモリーズ.天海春香.png"
+            ]
+        },
+        {
+            "filename": "amami-haruka.sailor-mizugi.png",
+            "layers": [
+                "/アイドルマスター/キャラクター/天海春香.png",
+                "/アイドルマスター/衣装/セーラーミズギ.png"
+            ]
+        },
+        {
+            "filename": "kauga-mirai.uniform-spring.png",
+            "layers": [
+                "/アイドルマスター ミリオンライブ/キャラクター/春日未来.png",
+                "/アイドルマスター ミリオンライブ/衣装/春日未来.制服 (春).png"
+            ]
+        },
+        {
+            "filename": "kauga-mirai.sailor-mizugi.png",
+            "layers": [
+                "/アイドルマスター ミリオンライブ/キャラクター/春日未来.png",
+                "/アイドルマスター/衣装/セーラーミズギ.png"
+            ]
+        },
+        {
+            "filename": "shimamura-uzuki.uniform-winter.png",
+            "layers": [
+                "/アイドルマスター シンデレラガールズ/キャラクター/島村卯月.png",
+                "/アイドルマスター シンデレラガールズ/衣装/島村卯月.制服 (冬).png"
+            ]
+        },
+        {
+            "filename": "shimamura-uzuki.uniform-summer.png",
+            "layers": [
+                "/アイドルマスター シンデレラガールズ/キャラクター/島村卯月.png",
+                "/アイドルマスター シンデレラガールズ/衣装/島村卯月.制服 (夏).png"
+            ]
+        },
+        {
+            "filename": "omiya-shinobu.uniform-winter.png",
+            "layers": [
+                "/きんいろモザイク/キャラクター/大宮忍.png",
+                "/きんいろモザイク/衣装/制服.シャツ (長袖).png",
+                "/きんいろモザイク/衣装/制服.スカート.png",
+                "/きんいろモザイク/衣装/制服.ベスト.png",
+                "/きんいろモザイク/衣装/制服.ボレロ.png",
+                "/きんいろモザイク/衣装/制服.リボン.png"
+            ]
+        },
+        {
+            "filename": "alice-cartalet.uniform-winter.png",
+            "layers": [
+                "/きんいろモザイク/キャラクター/アリス・カータレット.png",
+                "/きんいろモザイク/衣装/制服.シャツ (長袖).png",
+                "/きんいろモザイク/衣装/制服.スカート.png",
+                "/きんいろモザイク/衣装/アリスのカーディガン.png",
+                "/きんいろモザイク/衣装/制服.リボン.png"
+            ]
+        },
+        {
+            "filename": "kujo-karen.uniform-winter.png",
+            "layers": [
+                "/きんいろモザイク/キャラクター/九条カレン.png",
+                "/きんいろモザイク/衣装/制服.シャツ (長袖).png",
+                "/きんいろモザイク/衣装/制服.スカート.png",
+                "/きんいろモザイク/衣装/カレンのパーカー.png",
+                "/きんいろモザイク/衣装/制服.リボン.png"
+            ]
+        },
+        {
+            "filename": "kujo-karen.uniform-summer.png",
+            "layers": [
+                "/きんいろモザイク/キャラクター/九条カレン.png",
+                "/きんいろモザイク/衣装/制服.シャツ (長袖).png",
+                "/きんいろモザイク/衣装/制服.スカート.png",
+                "/きんいろモザイク/衣装/カレンのカーディガン (夏).png",
+                "/きんいろモザイク/衣装/制服.リボン.png"
+            ]
+        },
+        {
+            "filename": "kaban.clothes.png",
+            "layers": [
+                "/けものフレンズ/キャラクター/かばん.png"
+            ]
+        },
+        {
+            "filename": "cocoa.rabbit-house-uniform-winter.png",
+            "layers": [
+                "/ご注文はうさぎですか？/キャラクター/ココア.png",
+                "/ご注文はうさぎですか？/衣装/ラビットハウスの制服 (冬、ピンク).png"
+            ]
+        },
+        {
+            "filename": "sharo.highschool-uniform-winter.png",
+            "layers": [
+                "/ご注文はうさぎですか？/キャラクター/シャロ.png",
+                "/ご注文はうさぎですか？/衣装/高校の制服 (冬).シャロ.png"
+            ]
+        },
+        {
+            "filename": "sharo.highschool-uniform-summer.png",
+            "layers": [
+                "/ご注文はうさぎですか？/キャラクター/シャロ.png",
+                "/ご注文はうさぎですか？/衣装/高校の制服 (夏).シャロ.png"
+            ]
+        },
+        {
+            "filename": "aijo-karen.revue-costume.png",
+            "layers": [
+                "/少女☆歌劇 レヴュースタァライト/キャラクター/愛城華恋.レヴュー衣装.png"
+            ]
+        },
+        {
+            "filename": "omae-kumiko.uniform-winter.png",
+            "layers": [
+                "/響け！ユーフォニアム/キャラクター/黄前久美子.制服 (冬).png"
+            ]
+        },
+        {
+            "filename": "kosaka-honoka.uniform-winter.png",
+            "layers": [
+                "/ラブライブ！/キャラクター/高坂穂乃果.png",
+                "/ラブライブ！/衣装/制服 (冬).png"
+            ]
+        },
+        {
+            "filename": "kosaka-honoka.uniform-summer.png",
+            "layers": [
+                "/ラブライブ！/キャラクター/高坂穂乃果.png",
+                "/ラブライブ！/衣装/制服 (夏).png"
+            ]
+        },
+        {
+            "filename": "kosaka-honoka.uniform-coat.png",
+            "layers": [
+                "/ラブライブ！/キャラクター/高坂穂乃果.png",
+                "/ラブライブ！/衣装/コート.png"
+            ]
+        },
+        {
+            "filename": "kosaka-honoka.uniform-gym.png",
+            "layers": [
+                "/ラブライブ！/キャラクター/高坂穂乃果.png",
+                "/ラブライブ！/衣装/体操服.png"
+            ]
+        },
+        {
+            "filename": "simada-arisu.panzer-jacket.png",
+            "layers": [
+                "/ガールズ & パンツァー/キャラクター/島田愛里寿.パンツァージャケット.png"
+            ]
+        },
+        {
+            "filename": "miki-sayaka.puella-magi-costume.png",
+            "layers": [
+                "/魔法少女まどか☆マギカ/キャラクター/美樹さやか.魔法少女衣装.png"
+            ]
+        }
+    ]
+}

@@ -39,6 +39,13 @@
             ]
         },
         {
+            "filename": "kauga-mirai.my-dear-vampire.png",
+            "layers": [
+                "/アイドルマスター ミリオンライブ/キャラクター/春日未来.png",
+                "/アイドルマスター/衣装/マイディアヴァンパイア.png"
+            ]
+        },
+        {
             "filename": "shimamura-uzuki.uniform-winter.png",
             "layers": [
                 "/アイドルマスター シンデレラガールズ/キャラクター/島村卯月.png",

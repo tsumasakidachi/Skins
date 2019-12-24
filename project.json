@@ -46,6 +46,13 @@
             ]
         },
         {
+            "filename": "kauga-mirai.santa-dress.png",
+            "layers": [
+                "/アイドルマスター ミリオンライブ/キャラクター/春日未来.png",
+                "/共通衣装/サンタドレス.png"
+            ]
+        },
+        {
             "filename": "shimamura-uzuki.uniform-winter.png",
             "layers": [
                 "/アイドルマスター シンデレラガールズ/キャラクター/島村卯月.png",

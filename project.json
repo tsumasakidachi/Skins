@@ -185,6 +185,13 @@
             "layers": [
                 "/魔法少女まどか☆マギカ/キャラクター/美樹さやか.魔法少女衣装.png"
             ]
+        },
+        {
+            "filename": "konohata-mira.uniform-spring.png",
+            "layers": [
+                "/恋する小惑星/キャラクター/木ノ幡みら.png",
+                "/恋する小惑星/衣装/制服 (冬).png"
+            ]
         }
     ]
 }
